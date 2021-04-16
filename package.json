@@ -1,0 +1,28 @@
+{
+  "name": "primeira-api-nodejs",
+  "version": "1.0.0",
+  "description": "Primeira api em NodeJs.",
+  "main": "src/servidor.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "4.16.2",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "1.14.11"
+  },
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igor-Almeidados-Santos/Primeira-API-NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Igor-Almeidados-Santos/Primeira-API-NodeJS/issues"
+  },
+  "homepage": "https://github.com/Igor-Almeidados-Santos/Primeira-API-NodeJS#readme"
+}
