@@ -4,9 +4,7 @@
   "description": "Primeira api em NodeJs.",
   "main": "src/servidor.js",
   "dependencies": {
-    "axios": "^0.21.1",
-    "express": "4.16.2",
-    "lodash": "^4.17.21"
+    "express": "4.16.2"
   },
   "devDependencies": {
     "nodemon": "1.14.11"
